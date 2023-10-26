@@ -1,0 +1,14 @@
+@import url("bootstrap.css");
+
+
+.movie-list {
+    cursor: pointer;
+}
+
+.movie-list li {
+    cursor: pointer;
+}
+
+.row{
+    margin-bottom: 20px;
+}
