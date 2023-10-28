@@ -3,6 +3,7 @@
 
 .movie-list {
     cursor: pointer;
+    margin-left: 0%;
 }
 
 .movie-list li {
@@ -11,4 +12,10 @@
 
 .row{
     margin-bottom: 20px;
+    margin-left: 0%;
+    text-align: left;
+}
+
+.list-group {
+    margin-left: 0%;
 }
